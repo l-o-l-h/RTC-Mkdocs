@@ -1,0 +1,9 @@
+site_name: RTC
+theme: readthedocs
+nav:
+ - Home:
+   - RTC Home: 'index.md'
+ - Guides:
+   - Fredrickson: 'guides/Fredrickson.md'
+ - Statutes:
+   - Chapter 59.18 RCW: 'statutes/chapter59.18.md'

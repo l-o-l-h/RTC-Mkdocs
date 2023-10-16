@@ -1,3 +1,8 @@
+## Mkdocs
+*~
+*.md~
+site/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
